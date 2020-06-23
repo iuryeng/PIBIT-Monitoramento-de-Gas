@@ -1,0 +1,2 @@
+- Registro de Atividades de Desenvolvimento
+- Algorítimos de desenvolvimento do protótipo.

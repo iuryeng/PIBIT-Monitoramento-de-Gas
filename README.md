@@ -10,7 +10,7 @@
 
 ![algoritmos-produzidos](tabela-algoritmos.png)
 
-![user-interface](interface-definitiva.png)
+![user-interface](interface-definitiva-pibit.png)
 
 
 

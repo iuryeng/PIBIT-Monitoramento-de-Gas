@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Aplicação Web - Monitoramento de Gás com IoT</title>
+	<title>Aplicação Web - Monitoramento de Emissões Gasosas</title>
 	<style type="text/css">
 		/*Estilos Gerais */
 		.container {
@@ -68,8 +68,8 @@
 <body>   
 	<div class="container">
 		<div class ="titulo">
-			<h1>Monitoramento de Gás</h1>
-		    <h2>Metodologia Cientifica</h2>
+			<h1>Projeto de Pesquisa - IFPB </h1>
+		    <h2>Monitoramento de emissões gasosas apartir do sensor de gás metano MQ-4</h2>
 		</div>
 		<div class="areaPesquisa">
 			<form = action="" method="POST">

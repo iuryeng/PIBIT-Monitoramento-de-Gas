@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--Autor: Iury Coelho-->
 <html>
 <head>
 	<meta charset="utf-8">
@@ -64,8 +65,7 @@
 
 
 </head>
-<body>
-   
+<body>   
 	<div class="container">
 		<div class ="titulo">
 			<h1>Monitoramento de Gás</h1>
@@ -130,6 +130,5 @@
 	
 ?>
 </div>
-
 </body>
 </html>

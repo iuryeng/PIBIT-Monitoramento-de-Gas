@@ -3,4 +3,7 @@
 
 - Os arquivos correspondem aos documentos e algorítimos gerados a partir da conclusão das metas do projeto de pesquisa.
 
-![Sctabela-de-metas](tabela-metas.png)
+![tabela-de-metas](tabela-metas.png)
+
+
+![tabela-de-metas](atividades-prototipo.png)

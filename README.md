@@ -6,4 +6,6 @@
 ![tabela-de-metas](tabela-metas.png)
 
 
-![tabela-de-metas](atividades-prototipo.png)
+![desenvolvimento-prototipo](atividades-prototipo.png)
+
+![algoritmos-produzidos](tabela-algoritmos)

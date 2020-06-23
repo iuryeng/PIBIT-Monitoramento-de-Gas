@@ -8,4 +8,4 @@
 
 ![desenvolvimento-prototipo](atividades-prototipo.png)
 
-![algoritmos-produzidos](tabela-algoritmos)
+![algoritmos-produzidos](tabela-algoritmos.png)

@@ -1,1 +1,1 @@
-Revisão bibliográfica do projeto 
+Revisão bibliográfica do PIBIT

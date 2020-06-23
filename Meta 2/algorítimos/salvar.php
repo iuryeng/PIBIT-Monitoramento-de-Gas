@@ -4,7 +4,7 @@
 include"conexao.php";
 
   
-    $sensor1 = $_GET['sensor1'];
+        $sensor1 = $_GET['sensor1'];
 	$sensor2 = $_GET['sensor2'];
 	$sensor3 = $_GET['sensor3']; 
 

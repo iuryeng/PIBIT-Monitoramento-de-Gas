@@ -1,1 +1,1 @@
-- Contém Relatórios e Artigo
+- Contém Relatório e Artigo
